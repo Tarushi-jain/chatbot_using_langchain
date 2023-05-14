@@ -3,9 +3,8 @@ This is a simple chatbot project using LangChain, an open-source Python library 
 
 Installation
 To install LangChain, you can use pip:
-
-
 pip install langchain
+
 Usage
 To use the chatbot, run the main.py script:
 python main.py
