@@ -12,9 +12,10 @@ This will start a command-line interface where you can enter your questions or c
 
 Dependencies
 This project uses the following libraries:
-
 LangChain
 Hugging Face Hub
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
